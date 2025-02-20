@@ -1,0 +1,23 @@
+{////Made by VirisRJ :D////
+    "format_version": 2,
+    "header": {
+        "name": "§r§l§7Invis §8Skin Pack",
+        "uuid": "2d4cf849-a5b4-4d24-afdb-08d152be9346",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "55e5b1bb-cc14-4d00-b74c-b93f720b997f",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{////Made by VirisRJ :D////
+  "skins": [
+    {
+      "localization_name": "invis_skin",
+      "geometry": "geometry.virisrjpureinvis",
+      "texture": "invis.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "virisrjinvis",
+  "localization_name": "virisrjinvis"
+}
